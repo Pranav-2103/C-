@@ -1,0 +1,7 @@
+/*
+                    class a is base class
+b is derived from a                      c is derived from a
+                    d is derived from b and c
+
+to avoid the duplication of methods of class a via class b and c we make class a as virtaual base class.
+*/

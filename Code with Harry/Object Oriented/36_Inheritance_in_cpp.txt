@@ -1,0 +1,16 @@
+
+oops ke ander aata hai inheritance
+concept of reusability inn c++ is supported by using inheritance
+existing class is called as the base class
+the new class which is inherited is called as derived class
+
+forms of inheritance:
+1. single inheritance (derived class with only one base class)
+2. multiple inheritance (derived class with more than oine base class)
+3. hierarchical inheritance (several derived class from a single base class)
+4. multilevel inheritance (deriving a class from already derived class)
+5. hybrid inheritance (combination of multiple inheritance and multi-level inheritance)  AAAAAAAA
+                                                                                          |   |
+                                                                                          B   C
+                                                                                            |
+                                                                                         DDDDDDDD  
